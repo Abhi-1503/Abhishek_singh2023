@@ -1,7 +1,7 @@
 LinkUp – A modern meeting application for seamless scheduling, collaboration, and communication. Effortlessly organize and join meetings with an intuitive and user-friendly interface. 🚀
 
-## Portfolio-Website
-Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
+## LinkUp Meeting Application
+LinkUp Meeting Application built using HTML5, CSS3, JavaScript, and jQuery.
 
 <a href="http://link-up-meeting-application.vercel.app" target="_blank">**Visit Now** 🚀</a>
 
